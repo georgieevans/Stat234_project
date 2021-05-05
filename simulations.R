@@ -1,4 +1,3 @@
-setwd('/Users/georgieevans/Google Drive/rl_simulations')
 source('functions.R')
 
 nsims <- 250
