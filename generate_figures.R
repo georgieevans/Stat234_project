@@ -1,4 +1,5 @@
-setwd('/Users/georgieevans/Google Drive/rl_simulations')
+library(tidyverse)
+library(ggpubr)
 load("sim_output/thompson_sims.Rdata")
 load("sim_output/exploration_sims.Rdata")
 load("sim_output/random_sims.Rdata")
