@@ -1,4 +1,4 @@
-# Stat234_project
+# Stat234 project
 
 This repo contains code to replicate simulations in Evans & Schwenzfeier (2021) _'Adaptive experimentation for heterogeneous treatment effect estimation for political targeting'_
 
